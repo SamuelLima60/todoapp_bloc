@@ -1,16 +1,24 @@
 # todoapp_bloc
 
-A new Flutter project.
+O TodoApp Flutter com BLoC é um projeto desenvolvido com o objetivo de aprimorar minhas habilidades em Flutter, bem como aprender e aplicar o padrão BLoC (Business Logic Component). O aplicativo permite que os usuários criem e gerenciem suas listas de tarefas, possibilitando a adição, edição, exclusão e marcação de tarefas como concluídas.
 
-## Getting Started
+![Pagina Home](https://raw.githubusercontent.com/SamuelLima60/todoapp_bloc/main/screenshots/screenshot1.png)
+![Pagina Adicionar](https://raw.githubusercontent.com/SamuelLima60/todoapp_bloc/main/screenshots/screenshot2.png)
 
-This project is a starting point for a Flutter application.
+## Tecnologias utilizadas
+ - Flutter
+ - Dart
+ - BLoC (Business Logic Component)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos prévios
+ - Flutter SDK instalado em seu computador
+ - Visual Studio Code ou outra IDE de sua escolha
+ - Conhecimento básico de programação em Dart
+ 
+## Instruções de configuração
+ - Clone o repositório do GitHub para seu computador usando o comando ```git clone https://github.com/SamuelLima60/todoapp_bloc.git```
+ - Abra o projeto no Visual Studio Code ou na IDE de sua escolha.
+ 
+## Iniciando o aplicativo
+ - Conecte seu dispositivo móvel ou inicie um emulador.
+ - Clique no botão "Run" ou pressione F5 para iniciar o aplicativo.
